@@ -1,0 +1,5 @@
+python -m venv venv
+venv_dl\Scripts\activate 
+gui_face_recognition_dl.py
+
+
